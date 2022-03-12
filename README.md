@@ -1,4 +1,4 @@
-# Server of my todo list, new Edition in 2022!!
+# My todo list service
 
 This is a backend of todo list created to be REST API that be able to work with MongoDB.
 
@@ -10,13 +10,7 @@ https://github.com/Washira/todo-list-react-in-2022
 
 1. Clone code.
 
-2. Into path '/server', go to terminal then commands
-
-```
-npm install
-```
-
-notice your 'node_modules' appears on this path.
+2. Into path '/server', go to terminal then commands `npm install`, notice your 'node_modules' appears on this path.
 
 3. Open your local MongoDB.
 
