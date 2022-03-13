@@ -22,7 +22,7 @@ You need to install node.js first, then install MongoDB. If it were installed co
 npm run server
 ```
 
-5. Test by access to 'http://localhost:5000/' then you will see the data of all todo list.
+5. Test by access to 'http://localhost:5000/todo' then you will see the data of all todo list.
 
 
 ## Routes
